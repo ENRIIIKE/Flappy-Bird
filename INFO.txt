@@ -1,0 +1,14 @@
+Something about
+
+First time I tryed making my own game was 2 years ago and it was Flappy Bird. It took me approximately 7 hours. 
+I downloaded graphics from the internet, because then I didn't knew how to make something like Pixel-Art (and graphics completely). Programming
+was made clearly after 5 months of experience.
+
+
+Yesterday (02/08/2022) I made it within 3 hours and with my own made Pixel Art. Pixel Art from original game was taken as a reference. 
+Programming was easy now when I got 2+ years of experience. I knew what I was doing.
+
+
+(3 Hours are counting since my first tep (Graphics) to my last step (Gameplay Balance))
+
+///This is a reminder to me for not giving up///
